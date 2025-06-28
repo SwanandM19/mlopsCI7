@@ -1,0 +1,4 @@
+to create a CI
+1)create a small app in the app.py which takes number and returns square
+2)create a .github/workflows same to same file
+3)inside it create a ci.yaml file
